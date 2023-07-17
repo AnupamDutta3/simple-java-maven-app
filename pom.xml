@@ -75,11 +75,10 @@
       <name>Artifacts</name>
       <url>http://18.212.37.121:8081/artifactory/libs-release-local</url>
     </repository>
-    <enabled>true</enabled>
     <snapshotRepository>
         <id>libs-snapshot-local</id>
         <name>Snapshot</name>
-        <url>http://18.212.37.121:8081/artifactory/libs-release-local</url>
+        <url>http://18.212.37.121:8081/artifactory/libs-snapshot-local</url>
     </snapshotRepository>
   </distributionManagement>
 </project>
